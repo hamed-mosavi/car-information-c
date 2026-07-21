@@ -22,4 +22,7 @@ Range = (Fuel Tank / Fuel Consumption) × 100
 C
 
 ## Project Structure
-
+car-information-c
+│
+├── car_information.c
+└── README.md
